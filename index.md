@@ -1,7 +1,13 @@
 Basic
 - HTML
+
+    ```基础的html及html5的支持，通过w3school的官方网站学习即可，时不时看一下，还会有一些意外收获。```
 - CSS
 - JavaScript
+
+    ```JS的基础知识很庞杂，主要先看这两本线上教程即可```
+    * [Javascript教程](https://wangdoc.com/javascript/)
+    * [ES6标准入门教程](https://wangdoc.com/es6/)
 
 Junior
 - Git
@@ -75,6 +81,7 @@ Project
 - 性能
 - 安全
 - 微服务
+    - 微前端框架 [qiankun](https://qiankun.umijs.org/zh/guide)基于single-spa
 - code review
 - 问题排查
 
