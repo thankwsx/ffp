@@ -22,7 +22,8 @@ Junior
     - websocket
 - IDE
     - vscode
-
+        - [editorconfig](https://editorconfig.org/) 多人开发时保持代码风格的一致性
+        - [不同编程语言支持的内部逻辑](https://code.visualstudio.com/api/language-extensions/overview)
 - Browser
     - chrome
 
@@ -82,6 +83,7 @@ Project
 - 安全
 - 微服务
     - 微前端框架 [qiankun](https://qiankun.umijs.org/zh/guide)基于single-spa
+    - 前端微服务框架 [single-spa](https://single-spa.js.org)
 - code review
 - 问题排查
 
