@@ -69,6 +69,8 @@ Senior
 - 小程序
     
     ```快速试错，采用小程序的方式开发错不了```
+    
+    - [小程序入们核心概念——小程序登录](https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/login.html)
 - electron
     
     ```如果需要使用桌面应用进行推广宣传，可以使用electron```
