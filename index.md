@@ -24,6 +24,7 @@ Junior
     - vscode
         - [editorconfig](https://editorconfig.org/) 多人开发时保持代码风格的一致性
         - [不同编程语言支持的内部逻辑](https://code.visualstudio.com/api/language-extensions/overview)
+        - [内置支持TypeScript语言](https://code.visualstudio.com/docs/languages/typescript#_formatting)
 - Browser
     - chrome
 
