@@ -13,6 +13,9 @@ Junior
 - Git
 
     ```与人协作，必不可少```
+    - github
+
+        ```如果想在开源项目上面有所作为，尽早熟悉github的一切必要操作。```
 - Net
 
     ```前后台交互，网络知识必须学习```
@@ -34,7 +37,8 @@ Junior
     - vue
 
         ```快速发展中的前端框架之一```
-        - 快速搭建后台应用系统的脚手架框架[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin/blob/master/README.zh-CN.md)，基于vue2.6（上一代版本）
+        - 快速搭建后台应用系统的脚手架框架[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin/blob/master/README.zh-CN.md)，基于vue2.6（上一代版本）+ elementui
+        - 快速搭建后台应用系统的脚手架框架[vite-vue3-admin](https://github.com/buqiyuan/vite-vue3-admin)，基于vite2.0和vue3+antd等
     - react
     - angular
 - Library
