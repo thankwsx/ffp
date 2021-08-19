@@ -39,6 +39,7 @@ Junior
         ```快速发展中的前端框架之一```
         - 快速搭建后台应用系统的脚手架框架[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin/blob/master/README.zh-CN.md)，基于vue2.6（上一代版本）+ elementui
         - 快速搭建后台应用系统的脚手架框架[vite-vue3-admin](https://github.com/buqiyuan/vite-vue3-admin)，基于vite2.0和vue3+antd等
+        - [Vite](https://cn.vitejs.dev/)，新一代前端开发与构建工具，主要服务于vue，但是实际上于框架无关。
     - react
     - angular
 - Library
