@@ -32,6 +32,9 @@ Junior
 
     ```现代应用开发不可能离开框架了，但是还没有走过框架这一步```
     - vue
+
+        ```快速发展中的前端框架之一```
+        - 快速搭建后台应用系统的脚手架框架[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin/blob/master/README.zh-CN.md)，基于vue2.6（上一代版本）
     - react
     - angular
 - Library
