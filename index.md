@@ -28,6 +28,7 @@ Junior
         - [editorconfig](https://editorconfig.org/) 多人开发时保持代码风格的一致性
         - [不同编程语言支持的内部逻辑](https://code.visualstudio.com/api/language-extensions/overview)
         - [内置支持TypeScript语言](https://code.visualstudio.com/docs/languages/typescript#_formatting)
+        - [volar扩展，for Vue3](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
 - Browser
     - chrome
 
