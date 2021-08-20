@@ -43,6 +43,8 @@ Junior
         - [Vite](https://cn.vitejs.dev/)，新一代前端开发与构建工具，主要服务于vue，但是实际上于框架无关。
         - vue的UI库
             - 2021年最佳Vue3 UI框架推荐 [juejin指引链接](https://juejin.cn/post/6995519561030172702#comment)
+            - [vue3.0下setup脚本的写法](https://chengpeiquan.com/article/vue3-script-setup.html)
+            - [vue的性能优化](https://juejin.cn/post/6940190960609394695)
     - react
     - angular
 - Library
