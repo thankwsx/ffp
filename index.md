@@ -107,6 +107,8 @@ Project
 - 微服务
     - 微前端框架 [qiankun](https://qiankun.umijs.org/zh/guide)基于single-spa
     - 前端微服务框架 [single-spa](https://single-spa.js.org)
+- SSR(服务端渲染)
+    - [必要性，知乎贴](https://www.zhihu.com/question/308792091)
 - code review
 - 问题排查
 
