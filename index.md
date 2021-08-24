@@ -113,6 +113,9 @@ Project
 - code review
 - 问题排查
 
+大神列表
+  - [Addy Osmani - chrome工程师](https://addyosmani.com/)
+
 Reference
 - site
 - wechat
