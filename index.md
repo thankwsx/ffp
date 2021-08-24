@@ -104,6 +104,9 @@ Project
 - 算法
 - 性能
 - 安全
+
+    ```凡事对外的服务，一定要考虑安全问题，前端也是如此。```
+    - [OWASP组织- Open Web Application Security Project](https://owasp.org/)
 - 微服务
     - 微前端框架 [qiankun](https://qiankun.umijs.org/zh/guide)基于single-spa
     - 前端微服务框架 [single-spa](https://single-spa.js.org)
