@@ -109,6 +109,7 @@ Project
     - 前端微服务框架 [single-spa](https://single-spa.js.org)
 - SSR(服务端渲染)
     - [必要性，知乎贴](https://www.zhihu.com/question/308792091)
+    - [React服务器端组件](https://addyosmani.com/blog/react-server-components/)
 - code review
 - 问题排查
 
