@@ -59,6 +59,7 @@ Junior
     - Nuxt.js
     - Next.js
     - npm
+        - (he html实体编解码库)[https://www.npmjs.com/package/he]
 - Deploy
 
     ```做完应用开发之后，需要进行部署，部署工具需要学习```
@@ -114,6 +115,7 @@ Project
 - SSR(服务端渲染)
     - [必要性，知乎贴](https://www.zhihu.com/question/308792091)
     - [React服务器端组件](https://addyosmani.com/blog/react-server-components/)
+    - [Vue SSR工程实践](https://zhuanlan.zhihu.com/p/60816418)
 - code review
 - 问题排查
 
