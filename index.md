@@ -20,6 +20,7 @@ Junior
 
     ```前后台交互，网络知识必须学习```
     - http
+        - [http时延小实战](http://www.disheng.tech/blog/%E7%AE%80%E5%8D%95%E7%9A%84-http-%E8%B0%83%E7%94%A8%E4%B8%BA%E4%BB%80%E4%B9%88%E6%97%B6%E5%BB%B6%E8%BF%99%E4%B9%88%E5%A4%A7/)
     - https
     - http2
     - websocket
