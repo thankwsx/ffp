@@ -94,7 +94,11 @@ Senior
 - extension
 
     ```有时候也可以试试浏览器扩展的开发模式，适用PC端快速试错```
+- 构建
 
+    ```不知何时，前端语言变得比后端语言还臃肿，打包CI工具眼花缭乱，grunt、gulp，接踵而至。目前占主导地位的是以为大佬webpack```
+    - [webpack](https://webpack.js.org/) 不是故意将工作流构建和打包混为一谈。
+        
 Project
 - 实际问题
     - 用户登录
