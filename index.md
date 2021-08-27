@@ -59,7 +59,8 @@ Junior
     - Nuxt.js
     - Next.js
     - npm
-        - (he html实体编解码库)[https://www.npmjs.com/package/he]
+        - [he](https://www.npmjs.com/package/he)  html实体编解码库
+        - [lite-server](https://www.npmjs.com/package/lite-server) 轻量级开发用web服务器
 - Deploy
 
     ```做完应用开发之后，需要进行部署，部署工具需要学习```
