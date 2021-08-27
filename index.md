@@ -123,7 +123,11 @@ Project
     - [Vue SSR工程实践](https://zhuanlan.zhihu.com/p/60816418)
 - code review
 - 问题排查
+- 实用工具
 
+    ```介绍常用的一些工具，但不会很深入```
+    - [browsersync](https://browsersync.io/) 高效浏览器同步测试工具
+    
 大神列表
   - [Addy Osmani - chrome工程师](https://addyosmani.com/)
 
