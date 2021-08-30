@@ -5,7 +5,7 @@ Basic
 - CSS
     - Framework
         - [tailwindcss](https://tailwindcss.com/) 理念与众不同，但是和浏览器一致的css功能库。
-        
+
 - JavaScript
 
     ```JS的基础知识很庞杂，主要先看这两本线上教程即可```
@@ -64,6 +64,10 @@ Junior
     - npm
         - [he](https://www.npmjs.com/package/he)  html实体编解码库
         - [lite-server](https://www.npmjs.com/package/lite-server) 轻量级开发用web服务器
+    - pm2
+
+        ```一个非常流行的node应用管理工具，可以方便的启动或者停止node应用```
+        - [pm2启动配置文件](https://pm2.keymetrics.io/docs/usage/application-declaration/)
 - Deploy
 
     ```做完应用开发之后，需要进行部署，部署工具需要学习```
