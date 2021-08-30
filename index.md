@@ -108,6 +108,9 @@ Project
 - 配置化
 - 缓存
 - 设计模式
+- 工程模式
+    - monorepo 
+        - [lerna](https://github.com/lerna/lerna) 
 - 算法
 - 性能
 - 安全
@@ -127,7 +130,7 @@ Project
 
     ```介绍常用的一些工具，但不会很深入```
     - [browsersync](https://browsersync.io/) 高效浏览器同步测试工具
-    
+
 大神列表
   - [Addy Osmani - chrome工程师](https://addyosmani.com/)
 
