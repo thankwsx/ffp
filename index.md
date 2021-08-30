@@ -3,6 +3,9 @@ Basic
 
     ```基础的html及html5的支持，通过w3school的官方网站学习即可，时不时看一下，还会有一些意外收获。```
 - CSS
+    - Framework
+        - [tailwindcss](https://tailwindcss.com/) 理念与众不同，但是和浏览器一致的css功能库。
+        
 - JavaScript
 
     ```JS的基础知识很庞杂，主要先看这两本线上教程即可```
