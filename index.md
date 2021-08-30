@@ -65,6 +65,8 @@ Junior
 
     ```做完应用开发之后，需要进行部署，部署工具需要学习```
     - linux
+        - shell
+            - [shell特殊变量](https://blog.csdn.net/w746805370/article/details/51044352)
     - ssh
     - docker
     - Server
