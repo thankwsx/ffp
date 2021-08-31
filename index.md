@@ -143,6 +143,7 @@ Project
 
     ```介绍常用的一些工具，但不会很深入```
     - [browsersync](https://browsersync.io/) 高效浏览器同步测试工具
+    - [cloc](https://github.com/AlDanial/cloc) 统计代码行数的工具
 
 大神列表
   - [Addy Osmani - chrome工程师](https://addyosmani.com/)
