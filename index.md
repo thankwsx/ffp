@@ -39,6 +39,7 @@ Junior
         - [volar扩展，for Vue3](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
 - Browser
     - chrome
+        - [CSP Content Security Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) 网络安全开发比较重要的知识点
 
 - Framework
 
