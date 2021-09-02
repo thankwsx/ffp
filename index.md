@@ -68,6 +68,7 @@ Junior
     - npm
         - [he](https://www.npmjs.com/package/he)  html实体编解码库
         - [lite-server](https://www.npmjs.com/package/lite-server) 轻量级开发用web服务器
+        - [regenerator-runtime](https://www.npmjs.com/package/regenerator-runtime) 用于在旧式浏览器支持async/await的库
     - pm2
 
         ```一个非常流行的node应用管理工具，可以方便的启动或者停止node应用```
