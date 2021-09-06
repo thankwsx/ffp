@@ -31,6 +31,7 @@ Junior
     - https
     - http2
         - [nginx如何支持http2](https://developer.aliyun.com/article/7171)
+        - [HTTP合并请求与拆分的实验](https://cloud.tencent.com/developer/article/1837260)
     - websocket
 - IDE
     - vscode
