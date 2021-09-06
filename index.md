@@ -40,6 +40,7 @@ Junior
 - Browser
     - chrome
         - [CSP Content Security Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) 网络安全开发比较重要的知识点
+        - [Link Preload](https://developer.mozilla.org/en-US/docs/Web/HTML/Link_types/preload) 从代码角度控制资源加载优先级的手段
 
 - Framework
 
