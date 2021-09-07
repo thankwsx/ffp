@@ -88,6 +88,7 @@ Junior
             - [shell特殊变量](https://blog.csdn.net/w746805370/article/details/51044352)
     - ssh
     - docker
+        - [.dockerignore](https://codefresh.io/docker-tutorial/not-ignore-dockerignore-2/) docker镜像问题
     - Server
     
         ```也可能使用传统的部署方式，直接使用服务器的方式```
