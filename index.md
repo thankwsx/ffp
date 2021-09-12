@@ -39,6 +39,7 @@ Junior
         - [不同编程语言支持的内部逻辑](https://code.visualstudio.com/api/language-extensions/overview)
         - [内置支持TypeScript语言](https://code.visualstudio.com/docs/languages/typescript#_formatting)
         - [volar扩展，for Vue3](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+        - [代码段Snippet说明](https://code.visualstudio.com/docs/editor/userdefinedsnippets#_snippet-scope)
 - Browser
     - chrome
         - [CSP Content Security Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) 网络安全开发比较重要的知识点
